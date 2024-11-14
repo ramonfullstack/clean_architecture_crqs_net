@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "eg8tk9acuUxCUWdKQy6AGC4wcOz6Fd84bmngfWSksPBKWaFiXyqaTs5RWgIhNNSACkG73jGw/gBe9ntD2TwVmg==",
+  "success": true,
+  "projectFilePath": "E:\\DOTNET\\Clean_Arch_Crqs\\Clean_Arch_Crqs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAMON\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\RAMON\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\RAMON\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\RAMON\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Versão detectada do pacote fora da restrição de dependência: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requer MediatR (>= 11.0.0 && < 12.0.0), mas a versão MediatR 12.4.1 foi resolvida.",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
