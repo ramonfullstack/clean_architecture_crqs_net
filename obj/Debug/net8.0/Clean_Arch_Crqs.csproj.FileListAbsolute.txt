@@ -3,3 +3,4 @@ E:\DOTNET\Clean_Arch_Crqs\obj\Debug\net8.0\Clean_Arch_Crqs.GeneratedMSBuildEdito
 E:\DOTNET\Clean_Arch_Crqs\obj\Debug\net8.0\Clean_Arch_Crqs.AssemblyInfoInputs.cache
 E:\DOTNET\Clean_Arch_Crqs\obj\Debug\net8.0\Clean_Arch_Crqs.AssemblyInfo.cs
 E:\DOTNET\Clean_Arch_Crqs\obj\Debug\net8.0\Clean_Arch_Crqs.csproj.CoreCompileInputs.cache
+E:\DOTNET\Clean_Arch_Crqs\obj\Debug\net8.0\Clean_Arch_Crqs.sourcelink.json
